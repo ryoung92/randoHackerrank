@@ -1,0 +1,17 @@
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.deps.json
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.runtimeconfig.json
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.runtimeconfig.dev.json
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.dll
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.pdb
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\TestStuff.dll
+C:\repos\TestStuff\UnitTestProject2\bin\Debug\netcoreapp2.1\TestStuff.pdb
+C:\repos\TestStuff\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.csprojAssemblyReference.cache
+C:\repos\TestStuff\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\repos\TestStuff\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.AssemblyInfoInputs.cache
+C:\repos\TestStuff\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.AssemblyInfo.cs
+C:\repos\TestStuff\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.csproj.CopyComplete
+C:\repos\TestStuff\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.dll
+C:\repos\TestStuff\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.pdb
